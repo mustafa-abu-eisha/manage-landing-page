@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL Here](https://github.com/AbuEisha/front-end-mentor-challenges/tree/manage-landing-page)
+- [Solution URL Here](https://github.com/AbuEisha/manage-landing-page)
 - [Live Site URL Here](https://manage-landing-page-live.pages.dev/)
 
 ## My process
