@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL Here](https://github.com/AbuEisha/manage-landing-page)
+- [Solution URL Here](https://github.com/mustafa-abu-eisha/manage-landing-page)
 - [Live Site URL Here](https://manage-landing-page-live.pages.dev/)
 
 ## My process
@@ -48,5 +48,5 @@ Users should be able to:
 
 ## Author
 
-- [GitHub Profile Here](https://github.com/AbuEisha)
-- [Frontend Mentor Profile Here](https://www.frontendmentor.io/profile/AbuEisha)
+- [GitHub Profile Here](https://github.com/mustafa-abu-eisha)
+- [Frontend Mentor Profile Here](https://www.frontendmentor.io/profile/mustafa-abu-eisha)
